@@ -16,7 +16,7 @@ I'm a Flutter and full-stack developer in Round Rock, TX. I build and ship mobil
 | **Tudlo Studio** | Companion app where native speakers submit words and record pronunciations, and reviewers approve them for Tudlo Learn | iOS | Flutter, Firebase, role-based approval workflow, invite deep links | [App Store](https://apps.apple.com/us/app/tudlo-studio/id6760804407) |
 | **Backyard Barrage** | Kids' backyard snowball and water-balloon arena game | iPhone, iPad (in App Store review) | Flutter, Flame, IAP, rewarded ads with a parental gate | Coming soon |
 
-Also: [AI Text Cleaner](https://ai-text-cleaner-ten.vercel.app), a small web tool, and my company site [gamelogic.dev](https://gamelogic.dev).
+Also: [AI Text Cleaner]([https://ai-text-cleaner-ten.vercel.app](https://cleaner.gamelogic.dev/)), a small web tool, and my company site [gamelogic.dev](https://gamelogic.dev).
 
 ## Open source
 
